@@ -1,1 +1,1 @@
-Мои домашние работы в рамках курса front-end-pro
+Home works within course Front End Professional Super Mega Ultra Ultimate Total Monder
