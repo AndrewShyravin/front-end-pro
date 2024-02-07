@@ -7,3 +7,4 @@ function wordsCount(str) {
 }
 
 console.assert(wordsCount('hello world!') === 2);
+console.assert(wordsCount('hello world everyone!') === 3);
